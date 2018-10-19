@@ -1,0 +1,10 @@
+PCU_FLAMIN_ALU_1: Cle_Flamin_B_1, Cle_Flamin_B_2, Cle_Flamin_B_3
+PCU_FLAMIN_ALU_2: Cle_Flamin_B_4, Cle_Flamin_B_5, Cle_flamin_B_6
+PCU_LACASS_ALU_1: Lyn_Lacass_B_1, Lyn_Lacass_B_2, Lyn_Lacass_B_3
+PCU_LACASS_ALU_2: Lyn_Lacass_B_4, Lyn_Lacass_B_5, Lyn_Lacass_B_6
+PCU_LACASS_ALU_3: Lyn_Lacass_B_7, Lyn_Lacass_B_8
+PCU_LACASS_ALU_4: Lyn_Lacass_B_10, Lyn_Lacass_B_11, Lyn_Lacass_B_12, Lyn_Lacass_B_9
+PCU_LESILE_ALU_1: Ann_Lesile_B_1, Ann_Lesile_B_2, Ann_Lesile_B_3,Ann_Lesile_B_4
+PCU_MUTUAL_ALU_1: Gre_Mutual_B_1, Gre_Mutual_B_4, Gre_Mutual_B_8,Gre_Mutual_B_9
+PCU_MUTUAL_ALU_2: Gre_Mutual_B_2, Gre_Mutual_B_3, Gre_Mutual_B_5
+PCU_MUTUAL_ALU_3: Gre_Mutual_B_10, Gre_Mutual_B_6, Gre_Mutual_B_7
